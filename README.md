@@ -10,7 +10,7 @@
 
 ## 개발 환경
 
-* RaspberryPi3, Naber Cloud Platform, MongoDB, node.js, Android ,ubuntu 12.04
+* RaspberryPi3, Naber Cloud Platform, MongoDB, node.js, Android6 ,ubuntu 12.04
 
 * Java Script, C, Java
 
@@ -34,7 +34,7 @@
     
 
 ## 시스템 구성도
-
+![struct](https://user-images.githubusercontent.com/37570093/43033147-f25911ae-8cff-11e8-9cc5-021cee7fe45a.PNG)
 
 
 ## 동영상
