@@ -38,9 +38,7 @@
 
 
 ## 동영상
-```markdown
-<iframe width="640" height="360" src="https://youtu.be/TG81ZKylOGE" frameborder="0" gesture="media" allowfullscreen=""></iframe>
-```
+[![feeder 동영상](http://img.youtube.com/vi/TG81ZKylOGE/0.jpg)](https://youtu.be/TG81ZKylOGE?t=0s) 
 
 
 
