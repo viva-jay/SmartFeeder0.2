@@ -10,7 +10,7 @@
 
 ## 개발 환경
 
-* RaspberryPi3, Naber Cloud Platform, MongoDB, node.js, Android6 ,ubuntu 12.04
+* RaspberryPi3, Naver Cloud Platform, MongoDB, node.js, Android6 ,ubuntu 12.04
 
 * Java Script, C, Java
 
