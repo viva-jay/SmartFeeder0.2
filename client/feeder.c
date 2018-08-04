@@ -69,13 +69,10 @@ int main(int argc, char *argv[])
 	}
 	mqtt_connection();
 	
-	
 	//pthread_create(&voice_id,NULL,handle_voice,NULL);
 	//pthread_detach(voice_id); //종료기다림 여기서 중지..
-		pthread_create(&recive_id,NULL,handle_subscribe,NULL);
-		pthread_detach(recive_id);
-	
-	
+	pthread_create(&recive_id,NULL,handle_subscribe,NULL);
+	pthread_detach(recive_id);
 	while(1);
 	return 0;
 }
